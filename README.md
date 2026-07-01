@@ -1,4 +1,4 @@
-# bean-code
+# charlie
 Creating my own Claude Code, to run locally on my computer.
 
 ***TIP*** : ```Ctrl + Shift + V``` for a live preview of MD file.
